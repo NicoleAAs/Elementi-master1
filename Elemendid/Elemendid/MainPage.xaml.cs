@@ -48,7 +48,6 @@ namespace Elemendid
         }
 
 
-
         private async void Tbl_btn3_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new tablevv());

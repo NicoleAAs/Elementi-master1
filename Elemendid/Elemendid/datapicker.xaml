@@ -4,7 +4,7 @@
              x:Class="Elemendid.datapicker">
     <ContentPage.Content>
         <StackLayout>
-            <StackLayout BackgroundColor="DarkOrange">
+            <StackLayout BackgroundColor="#DEAC70">
             <Label Text="DataPicker"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />

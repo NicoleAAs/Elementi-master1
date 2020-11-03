@@ -22,7 +22,7 @@ namespace Elemendid
             Tbl_btn2.Clicked += Tbl_btn_Clicked2;
             Button Tbl_btn3 = new Button { Text = "TableView" };
             Tbl_btn3.Clicked += Tbl_btn3_Clicked;
-            Button Tbl_btn5 = new Button { Text = "WebView" };
+            Button Tbl_btn5 = new Button { Text = "WebVView" };
             Tbl_btn5.Clicked += Tbl_btn5_Clicked;
             Button Tbl_btn6 = new Button { Text = "timerPicker" };
             Tbl_btn6.Clicked += Tbl_btn6_Clicked;
